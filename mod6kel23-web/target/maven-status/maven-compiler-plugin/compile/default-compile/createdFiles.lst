@@ -1,0 +1,5 @@
+com\mycompany\mod6kel23\JakartaRestConfiguration.class
+converter\web\ConverterServlet.class
+com\mycompany\mod6kel23\resources\JakartaEE10Resource.class
+converter\ejb\ConverterBean.class
+converter\ejb\ConverterBeanLocal.class
